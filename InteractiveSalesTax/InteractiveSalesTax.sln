@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveSalesTax", "InteractiveSalesTax\InteractiveSalesTax.csproj", "{78BB5AFE-9890-4849-82BD-979B21FB0BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78BB5AFE-9890-4849-82BD-979B21FB0BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BB5AFE-9890-4849-82BD-979B21FB0BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BB5AFE-9890-4849-82BD-979B21FB0BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BB5AFE-9890-4849-82BD-979B21FB0BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E78B455-7BAD-4A33-975D-0E0FD0C1D16A}
+	EndGlobalSection
+EndGlobal
