@@ -47,9 +47,17 @@ namespace ProjectedRaises
 
             Console.WriteLine("Enter employee one salary >>> ");
             employSal1Entry = Console.ReadLine();
-            emploSalary1 = Convert.ToDouble(employSal1Entry); 
-            
-            
+            emploSalary1 = Convert.ToDouble(employSal1Entry);
+
+            Console.WriteLine("Enter employee two salary >>> ");
+            employSal2Entry = Console.ReadLine();
+            emploSalary2 = Convert.ToDouble(employSal2Entry);
+
+            Console.WriteLine("Enter employee three salary >>> ");
+            employSal3Entry = Console.ReadLine();
+            emploSalary3 = Convert.ToDouble(employSal3Entry);
+
+
             raiseSalEmply1 = emploSalary1 * RAISE;
             raiseSalEmply2 = emploSalary2 * RAISE;
             raiseSalEmply3 = emploSalary3 * RAISE;
